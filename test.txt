@@ -1,0 +1,8 @@
+function func(int $a ,int $b) {
+	printf(" Hello World");
+	}
+	function func1(int $a,int $b){
+	if ($a == 5){
+	printf(" Hello World");
+	}
+	 }	
